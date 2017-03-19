@@ -122,7 +122,7 @@ header>.sologan>li{
 	margin-right: 16px;
 }
 .products>.container>.product>.product-img{
-	background:#d8d8d8;
+	/*background:#d8d8d8;*/
 	border-radius:4px;
 	width:288px;
 	height:180px;
