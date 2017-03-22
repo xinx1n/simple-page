@@ -132,6 +132,12 @@ header>.sologan>li{
 	margin-top: 32px;
 	vertical-align: middle;
 }
+@media (max-width: 656px){
+	.products>.container>.product>.product-img{
+		width: 100%;
+		height: auto;
+	}
+}
 .products>.container>.product>h3{
 	margin-top: 20px;
 	margin-bottom: 14px;
